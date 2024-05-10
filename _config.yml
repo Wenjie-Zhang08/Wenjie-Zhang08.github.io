@@ -13,7 +13,7 @@ title_separator          : "-"
 favicon                  : "GPF.jpg"
 name                     : &name "Wenjie Zhang"
 description              : &description "personal description"
-url                      : https://Wenjie-Zhang08.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://Wenjie-Zhang08.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wenjie-Zhang08/Wenjie-Zhang08.github.io"
 github: [metadata]
