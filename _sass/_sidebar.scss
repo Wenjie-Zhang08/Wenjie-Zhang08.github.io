@@ -274,7 +274,7 @@
 }
 
 .author__urls.social-icons ul.icon-list li {
-  margin: 0 4px; /* Adjust spacing between icons */
+  padding-right: 5px; /* Adjust spacing between icons */
   display: flex;  /* Ensure li uses flexbox for consistent alignment */
   //align-items: center; /* Vertically center align items */
 }
