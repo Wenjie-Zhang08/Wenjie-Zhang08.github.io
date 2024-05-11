@@ -49,4 +49,5 @@ Before entering my current research field, I was mostly interested in **computer
 Another thing that is important for me is **piano** <i class="fa-solid fa-music"></i>. I have been playing the piano since I was 4 and have earned numerous certificates for amateur players in China. During my undergraduate time, I also provided introductory piano lessons for several students. My favorite artist is <span style='color: #c98f14'>**Animenz**</span> and I usually listen to his piano covers while doing the research. You can check [**his Youtube channel**](https://www.youtube.com/@Animenzzz) if you are interested. Right now I am picking up his cover of [**Kaibutsu**](https://www.youtube.com/watch?v=wD3MlqaLDZM) and [**Ninelie**](https://www.youtube.com/watch?v=AWNbcxXDmt0). One of my goal is to place a [**Steinway & Sons 9' Concert Grand Piano**](https://eu.steinway.com/en/pianos/steinway-grand-pianos/d-274/) at home <i class="fa-solid fa-face-grin-squint-tears"></i>.
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Pwn1vlJUml4eFMQH5sMqT8UKhb6fh1RVMliRJIaabwA&cl=ffffff&w=a"></script>
+
+[//]: # <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Pwn1vlJUml4eFMQH5sMqT8UKhb6fh1RVMliRJIaabwA&cl=ffffff&w=a"></script>
