@@ -43,16 +43,17 @@
   
 
             {% if author.googlescholar %}
-              <li><a href="{{ author.googlescholar }}"><i class="fa-brands fa-google-scholar" aria-hidden="true"></i></li>
+              <li><a href="{{ author.googlescholar }}" class=><i class="fa-brands fa-google-scholar" aria-hidden="true" title="Google Scholar""></i>
+                  </a></li>
             {% endif %}
             {% if author.github %}
-            <li><a href="{{ author.github }}"><i class="fa-brands fa-github" aria-hidden="true"></i></li>
+            <li><a href="{{ author.github }}"><i class="fa-brands fa-github" aria-hidden="true" title="Github"></i></a></li>
             {% endif %}   
             {% if author.cv %}
-            <li><a href="{{ author.cv }}"><i class="fa-solid fa-user-tie" aria-hidden="true"></i></li>
+            <li><a href="{{ author.cv }}"><i class="fa-solid fa-user-tie" aria-hidden="true" title="My CV"></i></a></li>
             {% endif %}   
             {% if author.linkedin %}
-            <li><a href="{{ author.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true"></i></li>
+            <li><a href="{{ author.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true" title="LinkedIn"></i></a></li>
             {% endif %}   
 
           </ul>

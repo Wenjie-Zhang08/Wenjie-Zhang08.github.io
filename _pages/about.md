@@ -14,6 +14,7 @@ Before enrolling in the Ph.D. program at UMN, I was in the **M.Sc.** program in 
 
 My research interests are in **AI for Science, Optimization for AI, and Computer Vision**.
 
+Future Plan -- After completing my Ph.D., I aim to pursue a career as a **tenure-track professor**.
 
 <br>
 
