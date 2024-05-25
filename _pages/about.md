@@ -20,10 +20,12 @@ Future Plan -- After completing my Ph.D., I aim to pursue a career as a **tenure
 
 [News](#news)
 ======
-**[ <span style="color:#7a0019">May 2024</span> ]** I presented the poster [***When Deep Learning Meets Nontrivial Constraints***](/files/PyGRANSO_POSTER.pdf) at <a href="https://cse.umn.edu/aiclimate/events/ai-climate-annual-review-meeting" style="color:#000;">*AI-CLIMATE Annual Review Meeting*</a>, the same poster will be presented by me at <a href="https://midwest-ml.org/2024/" style="color:#000;">*MMLS 2024*</a>. 
+**[ <span style="color:#7a0019">May 2024</span> ]** I served as a volunteer for <a href="https://midwest-ml.org/2024/" style="color:#000;">*MMLS 2024*</a>. 
+
+**[ <span style="color:#7a0019">May 2024</span> ]** I presented the poster [***When Deep Learning Meets Nontrivial Constraints***](/files/PyGRANSO_POSTER.pdf) at <a href="https://cse.umn.edu/aiclimate/events/ai-climate-annual-review-meeting" style="color:#000;">*AI-CLIMATE Annual Review Meeting*</a>, the same poster presented at <a href="https://midwest-ml.org/2024/" style="color:#000;">*MMLS 2024*</a>. 
 <a href="/files/PyGRANSO_POSTER.pdf" style="font-weight: bold;text-decoration: none;">`Poster`</a> 
 
-**[ <span style="color:#7a0019">April 2024</span> ]** I presented the poster [***Single Instance or Supervised Learning: Two ways of solving inverse problems***](/files/IP_POSTER.pdf) at <a href="https://sites.google.com/umn.edu/stahlforum2024?usp=sharing" style="color:#000;">*2024 Peter O. Stahl Advanced Design Forum*</a>, the same poster will be presented at <a href="https://midwest-ml.org/2024/" style="color:#000;">*MMLS 2024*</a> by my colleague <span style='color: #c98f14'>**Yuxiang**</span>. <i class="fa-solid fa-hands-clapping"></i>
+**[ <span style="color:#7a0019">April 2024</span> ]** I presented the poster [***Single Instance or Supervised Learning: Two ways of solving inverse problems***](/files/IP_POSTER.pdf) at <a href="https://sites.google.com/umn.edu/stahlforum2024?usp=sharing" style="color:#000;">*2024 Peter O. Stahl Advanced Design Forum*</a>, the same poster has been presented at <a href="https://midwest-ml.org/2024/" style="color:#000;">*MMLS 2024*</a> by my colleague <span style='color: #c98f14'>**Yuxiang**</span>. <i class="fa-solid fa-hands-clapping"></i>
 <a href="/files/IP_POSTER.pdf" style="font-weight: bold;text-decoration: none;">`Poster`</a> 
 
 **[ <span style="color:#7a0019">March 2024</span> ]** Our short paper [***What is Wrong with End-to-End Learning for Phase Retrieval?***](https://arxiv.org/abs/2403.15448) is available on ArXiv, which is also submitted to the <a href="https://www.imaging.org/IST/IST/Conferences/EI/EI2024/EI2024.aspx" style="color:#000;">*EI 2024*</a> workshop to be included in the proceedings. <a href="https://arxiv.org/abs/2403.15448" style="font-weight: bold;text-decoration: none;">`ArXiv`</a> 
